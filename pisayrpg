@@ -1,9 +1,1 @@
-package pisayrpg;
 
-public class Pisayrpg {
-
-    public static void main(String[] args) {
-        System.out.println("Hello bitch");
-    }
-
-}
